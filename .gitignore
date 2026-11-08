@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 自己的项目目录别传上来（照片、客户素材）
+projects/

@@ -1,0 +1,20 @@
+{
+  "name": "打工橘喵",
+  "intro": "一只系着蓝领带的橘猫，每天准时上班，准时不想上班。",
+  "copyright": "智能杠杆",
+  "reward_line": "给橘喵加个鸡腿吧",
+  "character": "character.png",
+  "style": "thick clean dark outlines, flat colors",
+  "frame_ms": 120,
+  "background": "transparent",
+  "stickers": [
+    {"word": "收到", "caption": "收到", "action": "snaps upright, nods twice energetically and gives a big thumbs up with a confident grin, then relaxes back"},
+    {"word": "好的", "caption": "好的", "action": "makes a big OK sign with one paw next to its face and winks, bouncing slightly, then back to start"},
+    {"word": "在吗", "caption": "在吗", "action": "peeks in from the right side of the cell with only head and one paw visible, waves the paw curiously, then slides back"},
+    {"word": "不想上班", "caption": "不想上班", "action": "bursts into huge cartoon waterfall tears, shaking with sobs, necktie flapping, then calms a little and sniffles"},
+    {"word": "无语", "caption": "无语", "action": "stares blankly with flat deadpan eyes, a big sweat drop slides down the forehead, three dots appear one by one above the head"},
+    {"word": "谢谢老板", "caption": "谢谢老板", "action": "bows deeply with both paws pressed together in gratitude, sparkles around, rises back up with a happy smile"},
+    {"word": "抱抱", "caption": "抱抱", "action": "opens both arms wide, leans forward for a hug with eyes closed and blushing, little hearts pop up, then back"},
+    {"word": "摸鱼中", "caption": "摸鱼中", "action": "sits relaxed holding a small tea cup, sips with eyes closed, steam curls rising, sways happily side to side"}
+  ]
+}
